@@ -81,3 +81,49 @@ O site do Google, por exemplo, possui um site especifico apenas para suporte que
 ---
 
 
+# WCAG
+
+### 1.3.5 - Identificar o objetivo de entrada
+
+As pessoas devem ter clareza do que devem preencher em campos de formulários. 
+
+Com isso os campos de entrada de um formulário (input) deve ter seu atributo definido corretamente, sendo eles: checkbox, color, date, email, file, number, password, text,  entre outros.
+
+Com o atributo type do input definido corretamente, é essêncial que este campo venha acompanhado com um texto para auxílio, para que o usuário não fique perdido.
+
+![Criação Repositório gitHub](./img/1.3.5-github.png)
+
+Na criação de um repositório no gitHub, por exemplo, todos os campos que devem ser preenchidos, contém o símbolo * em vermelho e, caso o campo não seja obrigatório aparece o texto opicional. Os campos são acompanhados com texto de auxílio, alguns são acompanhados também de ícones que rementem ao usuário coisas de seu cotidiano como o cadeado, mostrando que o local terá algum tipo de segurança.
+
+
+### 1.4.4 - Redimensionar texto
+
+Ao se aplicar zoom de até 200% na tela, deve ocorrer a responsividade dos textos apresentados de forma que sua leitura e legibilidade continuem adequados sem qualquer quebra na apresentação das informações.
+
+- Zoom (100%)
+  ![Tela HelpDuck](./img/1.4.4-helpduck.png)
+
+
+- Zoom (200%)
+  ![Tela HelpDuck](./img/1.4.4-helpduck2.png)
+
+Em nosso API com o zoom no nível 200, todos os elementos continuaram visíveis sem a quebra de layout.
+
+### 2.1.1 - Teclado
+
+Todas as funcionalidades devem ser acionadas via teclado, a menos que a funcionalidade não possibilite o controle apenas por teclado.
+
+![Tela HelpDuck](./img/2.1.1-teclado.gif)
+
+Em nosso API todas as funcionalida
+
+### 2.4.2 - Página com título
+
+Todas as telas devem ter um título principal e que descreva claramente a sua finalidade.
+
+- Pages
+ 
+![Tela HelpDuck](./img/2.4.2-pagetitle.png)
+![Tela HelpDuck](./img/2.4.2-pagetitle2.png)
+![Tela HelpDuck](./img/2.4.2-pagetitle3.png)
+![Tela HelpDuck](./img/2.4.2-pagetitle4.png)
